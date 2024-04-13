@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "nome": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "biografia": "Biografia do autor...",
+      "edicao": "1ª Edição",
+      "editora": "HarperCollins"
+    }
+    //
+  ]
+  json-server --watch livros.json usuarios.json

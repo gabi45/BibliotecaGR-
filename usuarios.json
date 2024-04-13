@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "idade": 30,
+      "endereco": "Rua das Flores, 123",
+      "email": "joao@example.com",
+      "telefone": "123456789"
+    }
+    // 
+  ]
+  json-server --watch livros.json usuarios.json
